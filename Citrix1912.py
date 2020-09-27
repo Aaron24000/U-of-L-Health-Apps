@@ -27,3 +27,5 @@ while True:
     elif checkbox == yes:
         pyautogui.click(1023, 576)
         break
+
+# test
